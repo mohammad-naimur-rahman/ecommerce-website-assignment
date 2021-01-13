@@ -1,0 +1,105 @@
+.header {
+  background-color: #fffbf0;
+  min-height: 100vh;
+}
+.logo {
+  width: 300px;
+}
+.penguin-nav {
+  font-family: "Roboto", sans-serif;
+  margin-left: auto;
+  font-weight: bold;
+}
+.penguin-nav-link {
+  color: #3c3c3c !important;
+  font-size: 17px;
+}
+.penguin-nav-link:hover {
+  color: #363958;
+}
+.header-heading-1,
+.header-heading-2 {
+  text-transform: uppercase;
+  font-size: 85px;
+  font-family: "Bebas Neue", cursive;
+}
+.header-heading-1 {
+  color: #fabe4c;
+}
+.header-heading-2 {
+  color: #363958;
+}
+.header-text {
+  color: #3e3e3e;
+  line-height: 26px;
+}
+.btn-buy {
+  background-image: linear-gradient(#a4bc46, #85a019);
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  padding: 18px 30px;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.btn-buy img {
+  width: 25px;
+}
+.header-main-right img {
+  width: 80%;
+}
+.product-header {
+  font-family: "Bebas Neue", cursive;
+  color: #363958;
+  font-size: 50px;
+}
+.product-card {
+  border: none;
+  font-family: "Roboto", sans-serif;
+  max-width: 440px;
+}
+.product-card h5 {
+  font-size: 28px;
+  color: #363958;
+  font-weight: bold;
+}
+.card-descreption {
+  color: #3e3e3e;
+  font-size: 17px;
+}
+.card-value {
+  font-size: 40px;
+  color: #fabe4c;
+  font-weight: bold;
+}
+.card-image-holder {
+  background-color: #f0f0f0;
+  border-radius: 15px;
+  width: 380px;
+  height: 360px;
+  margin: 0 auto;
+}
+.services {
+  margin: 100px 0 !important;
+}
+.service-box-photo img {
+  width: 80px;
+}
+.service-text-heading {
+  font-size: 28px;
+  color: #363958;
+  font-weight: bold;
+}
+.service-texts {
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+}
+.stay-connected {
+  font-family: "Roboto", sans-serif;
+}
+footer {
+  font-family: "Roboto", sans-serif;
+}
+.footer-area h4 {
+  color: #363958 !important;
+}
